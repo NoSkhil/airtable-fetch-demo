@@ -1,6 +1,6 @@
 # airtable-fetch-demo
 
-Instruction to run - 
+Instructions to run - 
 yarn install, yarn start
 
 Fetches some info from airtable and displays it on a basic web page.
